@@ -14,6 +14,10 @@
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-@FlamingMarshal-26A5E4?style=for-the-badge&logo=telegram" />
   </a>
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Flaming-Marshal&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flaming-Marshal&layout=compact&theme=tokyonight" height="150"/>
+</p>
 
 ---
 
@@ -91,7 +95,19 @@ Industrial Automation engineer with hands-on experience in **DCS, PLCs, HMI syst
     💬 Telegram
   </a>
 </div>
+---
 
+### 📱 Contact QR
 
+<p align="center">
+  <img src="Telegram.jpg" height="250"/>
+</p>
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Flaming-Marshal/Flaming-Marshal/output/snake.svg"/>
+</p>
 <!-- End of README.md -->
 
